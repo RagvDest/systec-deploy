@@ -108,6 +108,6 @@ export class UsuarioService{
             html: html // html body
           });
 
-          console.log("Mensaje enviado: %s", info.messageId);
+          console.log("Mensaje enviado: %s", info.messageId); 
     }
 }
